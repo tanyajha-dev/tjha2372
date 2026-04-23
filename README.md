@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @tjha2372
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me here is my email id:tjha2372@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Tanya Jha 👋
 
-<!---
-tjha2372/tjha2372 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.E Computer Science Student (2022–2026)  
+💻 Frontend Developer | React.js | AI Enthusiast  
+📍 India  
+
+---
+
+## 🚀 About Me
+- Passionate about building responsive and user-friendly web applications  
+- Interested in AI-powered applications and API integration  
+- Currently improving my skills in React, JavaScript, and DSA  
+- Open to entry-level opportunities in Software Development  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 HTML, CSS, JavaScript  
+- ⚛️ React.js, Tailwind CSS  
+- 🔧 Git, GitHub, VS Code  
+- 🤖 Basic AI Tools & API Integration  
+
+---
+
+## 📌 Projects
+- 🔹 AI Resume Analyzer  
+- 🔹 AI Chatbot  
+- 🔹 To-Do List Web App  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 💻 GitHub: https://github.com/yourusername  
+
+---
+
+⭐ *Always learning and building new things*
