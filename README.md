@@ -15,12 +15,15 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 HTML, CSS, JavaScript  
-- ⚛️ React.js, Tailwind CSS  
-- 🔧 Git, GitHub, VS Code  
-- 🤖 AI Tools, API Integration  
+## 🚀 Tech Stack
 
----
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-teal?style=for-the-badge&logo=tailwindcss)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 
 ## 📌 Projects
 ### 🔹 AI Resume Analyzer
