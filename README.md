@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+
 ## 🚀 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
@@ -24,7 +24,9 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-teal?style=for-the-badge&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=tanyajha-dev&show_icons=true)
 ## 📌 Projects
 ### 🔹 AI Resume Analyzer
 AI-powered web app that analyzes resumes and provides suggestions using API integration.
