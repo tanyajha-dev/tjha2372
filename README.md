@@ -1,16 +1,16 @@
-# Hi, I'm Tanya Jha 👋
+# Hi 👋, I'm Tanya Jha
 
-🎓 B.E Computer Science Student (2022–2026)  
-💻 Frontend Developer | React.js | AI Enthusiast  
+🚀 Frontend Developer | React.js | AI Enthusiast  
+🎓 B.E Computer Science (2022–2026)  
 📍 India  
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 - Passionate about building responsive and user-friendly web applications  
-- Interested in AI-powered applications and API integration  
-- Currently improving my skills in React, JavaScript, and DSA  
-- Open to entry-level opportunities in Software Development  
+- Interested in AI-powered projects and API integration  
+- Currently improving skills in React.js, JavaScript, and DSA  
+- Looking for entry-level opportunities in Software Development  
 
 ---
 
@@ -18,21 +18,26 @@
 - 💻 HTML, CSS, JavaScript  
 - ⚛️ React.js, Tailwind CSS  
 - 🔧 Git, GitHub, VS Code  
-- 🤖 Basic AI Tools & API Integration  
+- 🤖 AI Tools, API Integration  
 
 ---
 
 ## 📌 Projects
-- 🔹 AI Resume Analyzer  
-- 🔹 AI Chatbot  
-- 🔹 To-Do List Web App  
+### 🔹 AI Resume Analyzer
+AI-powered web app that analyzes resumes and provides suggestions using API integration.
+
+### 🔹 AI Chatbot
+Real-time chatbot that responds to user queries using AI APIs.
+
+### 🔹 To-Do List App
+Task management application with add, update, and delete functionality.
 
 ---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 💻 GitHub: https://github.com/yourusername  
+- 💻 GitHub: https://github.com/tanyajha-dev  
 
 ---
 
-⭐ *Always learning and building new things*
+⭐ *Consistently learning and building real-world projects*
